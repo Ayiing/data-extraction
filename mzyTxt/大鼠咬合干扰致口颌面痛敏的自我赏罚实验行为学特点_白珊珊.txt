@@ -1,0 +1,3326 @@
+北 京 大 学 学 报 ( 医 学 版 )
+
+JOUＲNAL OF PEKING UNIVEＲSITY
+
+(
+
+HEALTH SCIENCES
+
+)
+
+Vol． 52 No． 1 Feb． 2020
+
+·15·
+
+·论著·
+
+大鼠咬合干扰致口颌面痛敏的自我赏罚实验
+行为学特点
+
+白珊珊1，2，莫思怡1，2，徐啸翔1，2，刘 云1，2，谢秋菲1，2△，曹 烨1，2△
+( 北京大学口腔医学院
+腔数字化医疗技术和材料国家工程实验室 口腔数字医学北京市重点实验室，北京
+
+口腔医院，
+1．
+
+修复科，
+2．
+
+·
+
+口颌功能诊疗研究中心 国家口腔疾病临床医学研究中心 口
+
+)
+
+100081
+
+［摘 要］目的: 测定咬合干扰模型(
+
+，
+pIONX
+
+experimental occlusal interference
+
+partial in-
+) 两种口颌面疼痛模型大鼠的自我赏罚实验行为学表现及机械诱发反应痛敏，比较
+只，分别为机
+
+大鼠随机分为
+
+组，每组
+
+方法:
+
+EOI
+
+，
+
+) 与部分眶下神经切断模型(
+
+Sprague-Dawley
+组，
+
+为假手术组) 与自我赏罚实验组 (
+
+8
+
+6
+
+fraorbital nerve transection
+两种测痛方法所反映的不同疼痛模型的疼痛特点
+。
+械刺激诱发反应组(
+与
+与
+
+。
+
+组
+
+sham
+
+sham
+
+pIONX
+
+3 ～ 21 d
+
+。
+) ，
+
+von Frey
+
+P ＜ 0． 05
+
+P ＜ 0． 05
+
+10 ～ 14 d
+
+1、3、7、10、14、21 d
+
+出现显著下降(
+
+7 ～ 10 d
+达到最低
+
+pIONX
+于建模前及建模后
+
+) ，
+出现显著下降(
+
+组，
+EOI、sham-pIONX
+反应阈值与自我赏罚行为学表现
+
+sham-EOI、EOI、sham-pIONX
+为假手术组)
+结果: 机械刺激诱发反应组大鼠
+
+pIONX
+达到最低; 自我赏罚实验组大鼠
+
+sham-EOI、
+测定各组大鼠机械刺激
+纤维的机械刺激反应阈值于
+出
+纤维的机械刺激反应阈值
+出现显著
+7 d
+结论: 自我赏罚实验可以作为口颌面疼痛的行为学测定新方法，而且在神经病
+两种模型中，自我赏罚实验与机械刺激诱发反应均
+
+pIONX
+组
+组的总摄食时间于
+
+1 ～ 21 d
+现显著下降(
+于
+下降(
+理性疼痛和咬合干扰所致口颌面疼痛的模型中均可稳定应用
+表现出了不同的痛敏时程，两种方法互为补充可以更全面地揭示不同模型的疼痛行为学特点
+［关键词］动物行为; 面部疼痛; 痛觉过敏; 动物疾病模型; 大鼠
+［中图分类号］ Ｒ782 ［文献标志码］ A ［文章编号］1671-167X
+doi
+
+10． 19723 / j． issn． 1671-167X． 2020． 01． 008
+
+达到最低; 自我赏罚实验组大鼠
+
+机械刺激诱发反应组大鼠
+
+组的总摄食时间于
+
+P ＜ 0． 05
+达到最低
+
+01-0051-07
+
+10 ～ 21 d
+
+P ＜ 0． 05
+
+von Frey
+
+7 ～ 10 d
+
+1 ～ 21 d
+
+2020
+
+) ，
+
+) ，
+
+EOI
+
+EOI
+
+。
+
+。
+
+。
+
+。
+
+(
+
+)
+
+:
+
+Characteristics of orofacial operant test for orofacial pain sensitivity caused by occlu-
+sal interference in rats
+2 ，
+，
+
+2 ，
+，
+
+2 ，
+，
+
+2 ，
+，
+
+，
+2△
+
+LIU Yun1
+
+XIE Qiu-fei1
+
+2△，
+，
+CAO Ye1
+，
+
+Peking University School and Hospital
+of Stomatology ＆ National Clinical Ｒesearch Center for Oral Diseases ＆ National Engineering Laboratory for Digital and Ma-
+terial Technology of Stomatology ＆ Beijing Key Laboratory of Digital Stomatology
+
+2． Center for Oral and Jaw Functional Diagnosis
+
+Beijing 100081
+
+China
+
+，
+
+，
+
+)
+
+BAI Shan-shan1
+(
+1． Department of Prosthodontics
+
+MO Si-yi1
+
+XU Xiao-xiang1
+，
+
+:
+
+:
+
+:
+
+:
+
+:
+
+:
+
+(
+
+)
+
+(
+
+)
+
+) ;
+
+EOI
+
+von Frey group
+
+sham-operated group
+
+experimental occlusal interference
+
+partial infraorbital nerve transection
+
+To compare the orofacial pain sensitivity with operant test and mechanical hy-
+;
+
+ABSTＲACT Objective
+peralgesia with von Frey filaments of two orofacial pain models
+． To investigate the operant and evoked characteristics of
+pIONX
+The orofacial operant behaviors were tested by Ugo Basile Orofacial Stimulation Test
+EOI-rats． Methods
+System． The mechanical thresholds of vibrissal pads were tested by von Frey filaments． Male Sprague-
+，
+Dawley rats were randomly divided into eight groups
+pIONX
+(
+:
+sham
+
+pIONX
+． The mechanical thresholds and orofacial operant behaviors were tested on
+，
+
+sham
+sham-operated group
+
+peaking from days 7 to
+and lasted until the end of the experiment． There was no significant difference between the bilateral
+) ，
+
+pre-operation and post-operation days l
+the mechanical withdrawal threshold decreased from days 1 to 21
+10
+sides． In pIONX of operant test group
+the
+peaking from days 10 to 14
+and lasted
+mechanical withdrawal threshold decreased from days 3 to 21
+until the end of the experiment． There was no significant difference between the bilateral sides． In EOI of
+operant test group
+peaking from days 7
+Orofacial operant test is a stable method to
+to 10
+which could discriminate the feature of neuropathic and EOI orofacial
+evaluate orofacial pain behaviors
+
+and lasted until the end of the experiment． In EOI of von Frey group
+
+and lasting until the end of experiment． Conclusion
+
+the total contact time decreased from days 10 to 21
+
+the total contact time decreased from days 1 to 21
+
+operant test group
+，
+7
+
+In pIONX of von Frey group
+
+sham-EOI
+:
+
+P ＜ 0． 05
+，
+，
+
+P ＜ 0． 05
+(
+
+14 and 21． Ｒesults
+
+peaking on day 7
+
+sham-EOI
+，
+，
+
+sham-pIONX
+
+sham-pIONX
+
+P ＜ 0． 05
+
+P ＜ 0． 05
+
+，
+3
+
+) ，
+
+) ，
+
+) ，
+
+EOI
+
+EOI
+
+，
+
+，
+
+，
+
+，
+
+，
+
+，
+
+，
+
+，
+
+，
+
+，
+
+，
+
+10
+
+(
+
+(
+
+(
+
+:
+
+:
+
+:
+
+基金项目: 北京市自然科学基金(
+，
+
+△ Corresponding author’s e-mail
+:
+网络出版时间: 2019-12-24
+10
+
+09
+
+7192231
+xieqiuf@ 163． com
+:
+50 网络出版地址: http
+
+，
+
+:
+
+)
+
+ye． cao@ bjmu． edu． cn
+
+Supported by the Beijing Natural Science Foundation
+
+(
+
+)
+
+7192231
+
+/ / kns． cnki． net / kcms / detail /11． 4691． Ｒ． 20191223． 1649． 008． html
+
+·25·
+
+北 京 大 学 学 报 ( 医 学 版 )
+
+JOUＲNAL OF PEKING UNIVEＲSITY
+
+(
+
+HEALTH SCIENCES
+
+)
+
+Vol． 52 No． 1 Feb． 2020
+
+both of the operant behaviors and the mechanical hyperalgesia exhibi-
+pain． In these two animal models
+ted different time courses． Orofacial operant test provides a novel method for evaluating the orofacial pain
+sensitivity and studying the orofacial pain mechanism thoroughly．
+KEY WOＲDS Animal behavior
+
+Animal disease models
+
+Hyperalgesia
+
+Facial pain
+
+Ｒats
+
+;
+
+;
+
+;
+
+;
+
+，
+
+。
+
+口颌面疼痛可由多种疾病引起，其机制尚未完
+全明确，也缺乏有效的治疗手段［
+临床有部分
+患者因咬合干扰出现口颌面疼痛，甚至表现为广泛
+的颌面部疼痛，影响患者身心健康，其机制研究具有
+重要意义
+
+。
+
+1 － 2
+
+］
+
+)
+
+3 － 4
+
+。
+
+法
+
+von Frey
+
+operant behavior
+
+评估各种动物模型的疼痛程度是疼痛研究的重
+要方法，啮齿类动物的疼痛可分为刺激诱发性疼痛
+(
+
+) 与 非 刺 激 诱 发 性 疼 痛 (
+
+操纵行为实验(
+、
+
+stimulus-evoked pain
+) ［
+
+stimulus-evoked pain
+发反应与非诱发反应，如
+是经典的刺激诱发反应实验
+表
+为非刺激诱发反应实验［
+激及热刺激诱发反应，其中使用
+典的机械刺激诱发反应测试方法［
+
+non
+］，分别对应动物行为的诱
+热板测试等都
+、
+动物疼痛表情测量量
+跑轮实验等均
+、
+诱发反应包括机械刺
+纤维是经
+］，当所使用的
+纤维刺激超过疼痛阈值后，动物会出现抓
+von Frey
+回避等行为，研究者通过这些行为判定疼
+脸
+理毛
+、
+、
+但是，有研究指
+痛，该方法操作简单，可重复测量
+］，另
+出这些行为均属于受脑干支配的反射行为［
+外，该方法对疼痛的评估主要依赖于研究者的操作
+与判断，较易出现实验者偏倚［
+动物的非刺激
+诱发疼痛与人类的自发性疼痛和背景疼痛 (
+
+von Frey
+
+。
+
+。
+
+。
+
+5 － 6
+
+7 － 9
+
+3 － 4
+
+］
+
+］
+
+7
+
+back-
+
+9
+
+］
+
+3 － 4
+
+。
+
+等［
+
+———
+
+近年来，
+
+Neubert
+口颌面自我赏罚实验(
+
+) 相似，非刺激诱发疼痛均可归于此类
+ground pain
+。
+人类的疼痛行为多为非刺激诱发反应，行为复杂，因
+此使用多种行为学方法研究这些行为学表现具有重
+要意义［
+］创建了行为学方
+) ，
+法
+此方法基于操纵行为测试(
+) ，旨
+在通过奖赏
+］
+。
+自我赏罚实验允许动物在接受奖赏或逃避伤害性刺
+激间做出选择，与诱发反应测试方法相比更为客观，
+更能反映动物高级中枢对伤害性刺激加工后的表
+现［
+
+operant behavior test
+惩罚模式评价动物的疼痛表现［
+-
+
+orofacial operant test
+
+8 － 10
+
+9 － 11
+
+］
+
+，
+
+EOI
+
+三叉神经病理性疼痛模型与咬合干扰模型(
+
+ex-
+) 均是口颌面疼
+perimental occlusal interference
+痛研究中的重要动物模型，三叉神经病理性疼痛模
+型的大鼠表现出明显的口颌面诱发疼痛反应( 如机
+械刺激反应阈值下降) 和自发性反应( 如术后实验
+动物出 现 特 定 的 疼 痛 表 情 及异 常 的 面 部 梳 理 行
+为) ［
+相关模型包括眶下神经慢性缩窄模型
+(
+，
+
+chronic constriction injury of the infraorbital nerve
+
+。
+
+12 － 15
+
+］
+
+。
+
+)
+
+)
+
+、
+
+，
+
+部分眶下神经结扎模型(
+、
+
+pIONL
+
+ION-CCI
+
+partial infraorbital nerve transection
+
+partial infraorbi-
+部分眶下神经切断模型
+tal nerve ligation
+(
+，
+) 等，既
+pIONX
+往已有关于
+模型与
+模型的自我赏
+模型包括在实验动物牙齿上
+罚实验研究［
+咬合板等方式施加咬合干扰形成口颌面疼痛
+加冠
+、
+］，既往研究中未见此动物模型的自我赏罚
+模型［
+12 － 13
+实验相关研究
+
+ION-CCI
+，
+8
+16
+
+pIONL
+
+。EOI
+
+］
+
+。
+
+。
+
+本课题组的前期研究建立了成熟稳定的
+
+EOI
+模型和神经病理性疼痛模型，并对诱发痛敏行为学
+有较深入的研究
+本实验旨在将自我赏罚实验引入
+模型，探索新的颌面部行为学研究方法，同时测
+EOI
+定神经病理性疼痛模型的自我赏罚实验行为学结
+果，比较不同疼痛模型的痛敏特点异同，并将两种模
+型的自我赏罚实验结果与诱发反应结果相对比，以
+期能全面反映不同疼痛模型的疼痛特点
+
+。
+
+1 材料与方法
+实验动物
+健康雄性
+
+1． 1
+
+Sprague-Dawley SPF
+
+只，初
+，由北京维通利华实验动物技
+
+级大鼠
+
+60
+
+2016-0011
+
+180 ～ 200 g
+
+SCXK
+］，饲养于北京大学口腔医院［实验
+
+始体质量
+术有限公司提供［实验动物生产许可证号:
+( 京)
+动物使用许可证号:
+SYXK
+。24 h
+昼夜交替，室温
+，诱发反应实验大鼠自由饮食
+饮水，自我赏罚实验大鼠测试日预先禁食不禁水，其
+实验动物伦理审查批准号:
+余时间自由饮食饮水
+
+2016-0007
+
+( 京)
+
+25 ℃
+
+］
+
+。
+
+LA2017091。
+
+大鼠疼痛模型的建立
+
+1． 2
+
+17
+
+Cao
+
+EOI
+
+等［
+
+大鼠
+
+大鼠于
+
+40 mg / kg
+
+0． 4 mm。
+
+模型的建立 参考
+
+］的实
+1． 2． 1
+验方法，实验组大鼠经乙醚轻度麻醉后，取上颌藻酸
+盐印模，灌制模型，制作右上第一磨牙镍铬合金牙
+冠，确定牙合面厚度为
+( 体积分
+1%
+) 全身麻醉下
+数) 戊巴比妥钠(
+) 将牙冠
+使用树脂粘接剂(
+Panavia F
+粘固于大鼠右上第一磨牙
+组大鼠为假手术
+组，操作步骤同手术组但不粘固牙冠
+
+，
+Sigma
+，
+Kuraray
+
+，
+USA
+，
+Japan
+
+。
+模型的建立 参考
+］的
+1． 2． 2
+实验方法，大鼠在
+戊巴比妥钠全身麻醉下，于右
+上第一磨牙前龈颊沟处行纵行切口，钝性分离周围
+组织，暴露眶下神经分支
+使用显微外科剪剪断约
+
+。sham
+
+pIONX
+
+大鼠
+
+等［
+
+Cao
+
+1%
+
+18
+
+。
+
+白珊珊，等 大鼠咬合干扰致口颌面痛敏的自我赏罚实验行为学特点
+
+·35·
+
+外侧
+
+的眶下神经分支，术后缝合线缝合伤口
+1 /2
+。
+组大鼠为假手术组，操作步骤同手术组，但不
+
+sham
+进行神经切断
+
+。
+
+1． 3
+
+大鼠机械刺激诱发反应阈值的测定
+实验大鼠在建模前
+
+4 ～ 6 d
+，之后使用
+
+30 min
+
+日安抚大鼠
+模前与建模后固定时间点
+EOI
+双侧触须垫机械刺激反应阈值
+。
+大鼠自我赏罚行为学测定
+实验 使 用
+
+1． 4
+
+熟悉环境，实验者每
+纤维测定建
+组大鼠
+
+von Frey
+组与
+
+pIONX
+
+面 部 疼 痛 测 试 仪 (
+
+，
+
+Ugo Basile
+
+ComerioVA
+
+食物奖励
+、
+
+Basile Orofacial Stimulation Test System
+
+Ugo
+，
+) ，该仪器由标准动物笼与测试单元连接而成，
+Italy
+测试单元主要包括刺激装置
+红外线探头
+、
+等部分，刺激装置包括机械刺激模块与温度刺激模
+块，提供颌面部机械与热伤害性刺激
+机械刺激装
+置包括三种不同的密度模块，模块上分别设有不同
+数量的
+
+刺激丝，分别为( 左侧
+( 图
+
+6 + 6、9 +
+实验过程中，动物将头探出窗
+9
+口获得食物奖励时会触动刺激装置产生颌面部伤害
+性刺激，通过分析动物忍受伤害性刺激时的摄食情
+况( 摄食总时间与摄食总次数) 评估其疼痛程度
+
+13 + 13
+
+右侧)
+
+NiTi
+
+与
+
+。
+
+。
+
++
+
+1
+
+)
+
+。
+
+，
+
+;
+
+，
+
+diagram of the orofacial operant test system
+
+A
+three mechanical modules with different number of wires．
+
+B
+
+the blank mask and
+
+图 1 Ugo Basile
+
+面部疼痛测试仪
+
+Figure 1 Ugo Basile Orofacial Stimulation Test System
+
+8
+
+Cha
+
+等［
+
+具体测试方法参考
+
+］的研究，非测试期
+大鼠自由饮食饮水，测试日预先禁食，将大鼠置于标
+准动物笼中，放置机械刺激模块，提供食物奖励，大
+鼠经过窗口获得食物奖励时红外装置可自动检测该
+行为并将结果传入计算机，大鼠经过适应期训练后，
+能够忍受机械刺激间断性获取食物奖励
+大鼠每次
+测试时均先熟悉环境，随后打开摄食窗口，测试大鼠
+固定时间段内的摄食水平
+本实验参考相关研究的
+模型特点，最终将禁
+］进行设计，结合
+参数［
+食时间确定为(
+( 体积分
+
+，食物奖励为
+
+EOI
+
+。
+
+。
+
+8 － 10
+
+)
+
+20 ± 1
+
+h
+
+30%
+
+14 mm
+
+Nestle Carnation
+
+) ，饮水瓶口与机械刺激间
+数) 炼奶(
+，大鼠在摄食期间机械刺激位于触须
+距离为
+垫后方至咬肌前缘，机械刺激选择中等密度模块
+(
+大鼠在进入测试笼后先熟悉
+9 + 9 NiTi
+环境
+摄食水平
+( 摄食总时间与摄食总次数)
+
+刺激丝)
+，随后打开窗口，测试
+
+10 min
+
+10 min
+
+。
+
+1． 5
+
+。
+大鼠体质量测量实验设计
+既往研究已证实
+
+pIONX
+
+与
+］
+
+EOI
+实验大鼠体质量无影响［
+实验动物起始体质量接近的大鼠
+饮水大鼠
+只与间断性禁食大鼠
+行为学实验时间点测定实验动物体质量并进行比较
+
+模型的建立对
+选择与后续行为学
+只( 自由饮食
+只) ，按照后续
+
+。
+
+12
+
+17 － 18
+
+6
+
+6
+
+1． 6
+
+行为学实验设计
+实验 采 用 盲 法，大 鼠 随 机 分 为
+组为机械刺激诱发反应组，以
+
+只) ，
+4
+测定机 械 刺 激 反 应阈 值 ( 分 别 为
+
+。
+
+组 ( 每 组
+
+8
+
+6
+纤维
+
+von Frey
+
+组，
+
+sham-pIONX、pIONX
+自我赏罚实验组，以
+测定自我赏罚实验行为学表现 ( 分别为
+
+Ugo Basile
+
+sham
+
+为假手术组) ;
+
+sham-EOI、EOI、
+组为
+口颌面疼痛测试仪
+
+4
+
+sham-EOI、
+
+。
+
+为假手术组)
+
+EOI、sham-pIONX、pIONX
+
+，
+sham
+机械刺激诱发反应组中的
+
+2
+
+5
+
+4
+
+。
+
+1 min
+
+1 ～ 3 d
+
+及建模后
+
+1、3、7、10、14、21 d
+次，每次间隔
+
+组大鼠分别于建模
+每天固定时
+前
+，取平
+间点测试，每侧重复测试
+均值作为该侧机械刺激反应阈值
+自我赏罚实验组
+周适应训练，熟悉自我赏罚行为学实验
+大鼠进行
+仪器及人员，适应训练成功的大鼠在测试期间可忍
+受颌面部伤害性刺激，间断性获得食物，且摄食水平
+训练成功的大鼠在适应训练期结束后，连续
+稳定
+次基线摄食水平，取平均值为基线摄食水平，
+测定
+测定基线后，分别于建模后
+每天
+1、3、7、10、14、21 d
+固定时间点进行大鼠自我赏罚实验行为学测定
+
+。
+
+3
+
+。
+
+1． 7
+
+统计学分析
+使用
+
+±
+
+SPSS 20． 0
+
+软件，计量资料以均数
+
+标准
+误表示，对自由饮食饮水大鼠与间断性禁食大鼠的
+每次平均体质量采用独立样本
+检验分析两组间差
+异，对各组不同时间点的机械刺激反应阈值与自我
+赏罚行为学结果分别采用重复测量方差分析
+
+、Bon-
+后检验，对各组相同时间点的机械刺激反应
+ferroni
+阈值与自我赏罚行为学结果进行多因素方差分析
+、
+认为差异有统计学意
+
+后检验
+
+t
+
+。P ＜ 0． 05
+
+Bonferroni
+义
+
+。
+
+2 结果
+
+2． 1
+
+大鼠基本情况
+自由饮食饮水大鼠与间断性禁食大鼠在测试期
+
+·45·
+
+北 京 大 学 学 报 ( 医 学 版 )
+
+JOUＲNAL OF PEKING UNIVEＲSITY
+
+(
+
+HEALTH SCIENCES
+
+)
+
+Vol． 52 No． 1 Feb． 2020
+
+间体质量均出现缓慢增加，
+鼠的体质量略低于自由饮食饮水大鼠，
+异有统计学意义(
+计学意义( 图
+
+开始间断性禁食大
+两组差
+) ，其余时间点差异无统
+
+P ＜ 0． 05
+
+21 d
+
+7 d
+
+)
+
+2
+
+。
+
+* P ＜ 0． 05．
+图 2
+
+间断性禁食大鼠与自由饮食饮水大鼠的体质量变化(
+
+)
+
+n = 6
+
+Figure 2 Weight change of the intermittent fasting
+
+rats and free-diet rats
+
+n = 6
+
+(
+
+)
+
+与
+
+大鼠机械诱发反应实验结果
+
+2． 2
+
+pIONX
+机械刺激诱发反应组中，
+
+pIONX
+
+1 ～ 21 d
+
+sham-pIONX
+组大鼠双侧机械刺激反应阈值变化见图
+3。pIONX
+组大鼠手术侧与非手术侧机械刺激反应阈值均下
+降，
+与 对 照 组 相 比 差 异 均 有 统 计 学 意 义
+(
+达到最低点，之后出现升高，但
+机械刺激反应阈值持续至观察终点仍未恢复至基线
+) ，双侧机械反应阈值差异无统计学
+水平(
+意义(
+)
+
+P ＜ 0． 05
+
+P ＜ 0． 05
+
+7 ～ 10 d
+
+) ，
+
+P ＞ 0． 05
+
+。
+
+，
+
+significant difference between the sham-pIONX ipsilateral
+significant difference between the
+
+* P ＜ 0． 05
+and pIONX ipsilateral
+sham-pIONX contralateral and pIONX contralateral．
+图 3
+
+组大鼠双侧面部机械刺激反应阈值
+
+sham-pIONX
+
+# P ＜ 0． 05
+
+pIONX
+
+组与
+
+，
+
+;
+
+Figure 3 Mechanical withdrawal threshold of the
+
+sham-pIONX group and pIONX group
+大鼠自我赏罚实验结果
+
+2． 3
+
+pIONX
+自我赏罚实验组中，
+
+与
+
+pIONX
+
+组
+大鼠在建模后一周内总摄食时长均呈现上升趋势，
+但各时间点间差异无统计学意义(
+建模
+最低，之后
+
+后，大鼠总摄食时长下降，
+
+sham-pIONX
+
+7 d
+出现回升，但在测试末仍未回到基线水平，
+组大鼠建模后
+比差异有统计学意义(
+差异亦有统计学意义(
+摄食次 数 的 各 时 间 点 差 异 无 统 计 学 意 义 (
+
+pIONX
+总摄食时长与对照组相
+) ，与自身基线相比
+实验期间两组总
+
+P ＜ 0． 05
+)
+
+10、14、21 d
+
+10 ～ 14 d
+
+P ＞ 0． 05
+
+P ＜ 0． 05
+
+。
+
+。
+
+)
+
+P ＞
+
+) ，见图
+
+4。
+
+0． 05
+
+，
+
+total contact time of orofacial operant tests between two groups
+
+A
+recordings of operant behavior in a duration of 10 min of a pre-operation pIONX rat
+nificant difference between the two groups
+
+，
+
+B
+
+;
+
+;
+
+;
+
+，
+
+total contact numbers of the two groups
+
+D
+
+a sample trace of a post-operation pIONX rat． * P ＜ 0． 05
+
+a sample trace shows the automatic
+sig-
+
+，
+
+，
+
+，
+
+;
+
+C
+
+# P ＜ 0． 05
+图 4
+
+significant difference between the baseline and days after operation．
+
+sham-pIONX
+
+组与
+
+pIONX
+
+组大鼠自我赏罚行为学表现
+
+Figure 4 The operant behavior of the sham-pIONX group and pIONX group
+
+2． 4 EOI
+
+大鼠机械诱发反应实验结果
+
+机械刺激诱发反应组中，
+
+sham-EOI
+
+与
+
+EOI
+
+组大
+
+鼠双侧机械刺激反应阈值变化见图
+加
+
+组在施
+咬合干扰后，机械刺激反应阈值呈下降
+
+5。EOI
+
+0． 4 mm
+
+白珊珊，等 大鼠咬合干扰致口颌面痛敏的自我赏罚实验行为学特点
+
+·55·
+
+趋势，但建模后
+意义(
+
+P ＞ 0． 05
+
+与对照组相比差异无统计学
+1 ～ 3 d
+) ，之后机械刺激反应阈值显著下降，
+
+7 d
+
+与 对 照 组 相 比 差 异 有 统 计 学 意 义 (
+
+7 ～ 21 d
+) ，
+
+P ＜
+达到最低点，之后有所回升，但持续至观
+0． 05
+察终点差异仍有统计学意义
+组大鼠干扰侧与
+非干扰侧机械刺激反应阈值间的差异无统计学意义
+(
+
+。EOI
+
+)
+
+P ＞ 0． 05
+
+。
+
+，
+
+* P ＜ 0． 05
+sham-EOI and EOI groups
+tralateral sides between the sham-EOI and EOI groups．
+
+significant difference in the ipsilateral sides between the
+significant difference in the con-
+
+# P ＜ 0． 05
+
+，
+
+;
+
+图 5
+
+sham-EOI
+
+组与
+
+EOI
+
+组大鼠双侧面部机械刺激反应阈值
+
+Figure 5 Mechanical withdrawal threshold of the
+
+sham-EOI group and EOI group
+
+2． 5 EOI
+
+大鼠自我赏罚实验结果
+
+自我赏罚实验组中，
+
+组大鼠摄食水平
+稳定，总摄食时长与总摄食次数各时间点间差异无
+统 计学意义(
+组大鼠在建模后，总
+
+sham-EOI
+
+)
+
+P ＞ 0 ． 05
+
+。EOI
+
+) ，
+
+P ＜ 0． 05
+
+摄食时间显著下降，与对照组相比，
+有统计学意义(
+回升，但持续至观察终末差异仍有统计学意义
+模后
+差异亦有统计学意义(
+P ＜ 0． 05
+总摄食次数差异无统计学意义(
+
+差异均
+1 ～ 21 d
+最低，之后出现
+建
+总摄食时间与自身基线的对比结果
+) ，实验期间两组的
+
+7、10、14 d
+
+) ，见图
+
+7 ～ 10 d
+
+。
+
+P ＞ 0． 05
+
+6。
+
+3 讨论
+
+3． 1
+
+19
+
+］
+
+。
+
+。
+
+(
+”
+
+) 与
+
+自 愿 行 为
+
+reflexive behaviors
+
+疼痛评估的方法
+目前认为疼痛是一种多维的复合感觉，一个简
+单的痛觉过程至少包含三个维度: 感觉维度
+情绪维
+、
+动物模型与疼痛行为评估均是
+度和认知维度［
+疼痛研究的重要组成，一直以来，该领域的研究者们
+发展实验方法，以期能客观评价实验动物
+不断创新
+、
+疼痛行为
+反射行
+为
+
+动物疼痛行为评估通常包括
+“
+(
+”
+) ，其中又包括非习得与习得行为［
+
+voluntary
+不同
+］
+20
+reactions
+评估方法可获得不同信息，如动物的屈肌反射中枢
+为脊髓，更复杂的非习得行为( 如舔爪
+理毛
+等) 的中枢可能由脑干介导［
+］，这些非习得行
+］，较之更复杂
+为在去大脑的动物中也可观察到［
+的习得行为则需要经过大脑加工处理，如实验动
+物通过操纵实验学会自我选择食物或逃避伤害性
+因此，客观评价习得行为更能反映高级中
+刺激
+枢对伤害性刺激的整合，对研究疼痛的中枢机制
+具有重要意义
+
+发声
+
+20 － 23
+
+。
+
+、
+
+、
+
+。
+
+“
+
+7
+
+。
+
+，
+
+;
+
+，
+
+，
+
+;
+
+C
+
+total contact time of orofacial operant tests between two groups
+
+A
+recordings of operant behavior in a duration of 10 min of a pre-operation EOI-rat
+cant difference between the two groups
+
+，
+
+B
+
+;
+
+;
+
+，
+
+total contact numbers of the two groups
+
+D
+
+a sample trace of a post-operation EOI-rat． * P ＜ 0． 05
+
+a sample trace shows the automatic
+signifi-
+
+，
+
+# P ＜ 0． 05
+图 6
+
+significant difference between the baseline and days after operation．
+
+sham-EOI
+
+组与
+
+EOI
+
+组大鼠自我赏罚行为学表现
+
+Figure 6 The operant behavior of the sham-EOI group and EOI group
+
+3． 2
+
+咬合干扰致口颌面痛敏大鼠的自我赏罚实验
+口颌面疼痛测试仪是一种能够评估
+
+Ugo Basile
+
+反应高级中枢对疼痛整合行为的仪器，曾用于研究
+三叉神经病理性疼痛( 眶下神经慢性缩窄模型与眶
+
+·65·
+
+北 京 大 学 学 报 ( 医 学 版 )
+
+JOUＲNAL OF PEKING UNIVEＲSITY
+
+(
+
+HEALTH SCIENCES
+
+)
+
+Vol． 52 No． 1 Feb． 2020
+
+8 － 11
+
+，
+24
+
+下神经部分结扎模型)
+口颌面炎性痛模型，探索行
+、
+］，在三叉神经病理性
+为学特点及其相关机制［
+疼痛研究中，多个实验均使用该方法评价了动物模
+型的行为学特点，探索该模型实验动物机械痛觉过
+敏与冷 刺 激 痛 觉 过 敏 的 自 我赏 罚 实 验 行 为 学 表
+现［
+
+8 － 10
+
+］
+
+。
+
+。
+
+］
+
+临床上可观察到咬合干扰相关口颌面疼痛患者
+抑郁等评分较高，更容易出现不稳定情绪
+的焦虑
+、
+。
+动物研究也提示，咬合问题与情绪
+精神心理等因素
+、
+相关，如一项关于猕猴的研究显示，功能失调的咬合
+关系可能导致与情绪压力相关的磨牙症［
+颞下
+)
+颌关节紊乱病 (
+temporomandibular disorders
+相关口颌面疼痛研究显示，咬合因素可能为
+的
+危险因素，而
+患者多伴有心理问题［
+本
+课题组的前期研究发现，海马
+前扣带回等均参与了
+、
+］，提示该模
+咬合干扰致口颌面痛敏的中枢机制［
+因此，使用自我
+型痛觉的产生与情绪认知等相关
+赏罚实验方法可能更全面地反映该模型的行为学特
+点
+
+。
+，
+
+TMD
+
+TMD
+
+TMD
+
+。
+
+。
+
+28 － 29
+
+26 － 27
+
+］
+
+25
+
+］
+
+NiTi
+
+20%
+
+蔗糖［
+
+炼奶与
+
+12 ～ 15 h
+
+6 + 6 NiTi
+8 － 11
+
+食时间多为
+机械刺激模块(
+
+自我赏罚实验在既往的研究应用中，测试前禁
+，机械刺激多选择密度最低的
+刺激丝) ，食物奖励包括
+本研究的预实验
+，
+30 － 31
+30%
+。
+发现，设置三种不同密度
+刺激丝时，实验大鼠
+总摄食时间随密度增加而降低，训练失败的大鼠增
+多，但大鼠疼痛时总摄食时间的变化量增加，另一方
+面，随禁食时长增加，实验动物总摄食时长增加，
+刺激丝时，施加干扰
+EOI
+后总摄食时间降低较少，综上，我们最终选择中等密
+刺激丝与更长的禁食时间，以达到建模后实
+度
+验动物总摄食时间变化量明显，且适应期后总摄食
+时间与 大 部 分 相 关 研究 相 似 (
+
+组大鼠使用最低密度
+
+≥ 200 s /10 min
+
+。
+模型与既往研究中神经病理性疼痛与急性炎性
+EOI
+痛模型相比，可能具有疼痛症状较轻
+动物自发性行
+、
+为更少的特点，因此更长的禁食时长与较强的机械
+刺激更适用
+
+NiTi
+
+NiTi
+
+)
+
+自我赏罚实验能够反映高级中枢对疼痛的整
+合，实验过程操作方便，实验大鼠在适应期训练结束
+后，实验人员每次测试仅需安装操作仪器，并不需对
+实验大鼠反复操作，能够减少实验动物恐惧
+紧张等
+、
+心理，且实验结果稳定，不同模型对照组及假手术组
+但是，自我赏罚实验也存在
+大鼠的摄食水平稳定
+一些缺点，如实验周期长，适应期训练需要
+周，
+实验动物存在训练失败的可能，实验前需对大鼠禁
+食
+
+2 ～ 3
+
+。
+
+。
+
+。
+
+17 － 18
+
+EOI
+
+pIONX
+
+模型与
+
+本研究评价了禁食对实验动物的影响，以往关
+模型的研究显示建模并不会
+于
+］，因此，本研究仅
+影响实验大鼠的体质量增长［
+探索自我赏罚实验方法对实验大鼠的体质量影响
+。
+实验中发现，随实验时间延长，自我赏罚实验大鼠与
+空白对照大鼠相比，体质量增长较慢，测试第
+天
+两组体质量差异有统计学意义，提示实验中长期间
+后续研究中，随实验时间
+断性禁食影响大鼠生长
+延长，测试时间点间隔应延长，尤其在长期慢性痛研
+究中，需要注意禁食时间与禁食时长的选择
+
+21
+
+。
+
+。
+两种模型
+
+两种行为学方法评估
+
+3． 3
+的疼痛特点
+
+pIONX
+
+与
+
+EOI
+
+。
+
+本实验结果显示，
+
+模型大鼠
+纤维机械诱发反应实验结果与自
+
+模型与
+
+pIONX
+
+EOI
+
+在建模后
+我赏罚实验结果中表现出不同的时程特点
+
+von Frey
+
+1
+
+。
+
+1 d
+
+pIONX
+
+周后下降
+
+模型建模后，机械刺激诱发疼痛在建模
+开始出现，持续到测试末，而自我赏罚行为学
+后
+表现则在建模
+自我赏罚实验疼痛行为
+的出现晚于机械刺激诱发的疼痛行为，原因可能为
+手术导致的急性神经损伤后，损伤神经周围会出现
+异位神经断端的异常兴奋，并对内源性细胞因子等
+反应 增 强，引 起 实 验 动 物 对 机 械 刺 激 的 躲 避 行
+］，但并不影响自我赏罚实验行为表现，随时
+为［
+间延长，疼痛逐渐转变为慢性，出现了中枢敏化，神
+经病理性疼痛表现出神经损伤后持续的异常输入引
+腹后丘脑脊髓背
+发的脊髓背角神经元兴奋性增强
+、
+角广动力范围神经元兴奋性增强
+前扣带回星形胶
+、
+］，此时，自我赏罚
+质细胞标记物表达上调等［
+实验的行为学表现即总的摄食时长开始减少
+
+，
+33 － 34
+
+32 － 33
+
+18
+
+。
+
+7 d
+
+EOI
+
+既往研究也显示，长期
+
+模型建模后，机械刺激诱发的疼痛在建模
+差异有统计学意义，持续到测试末，而自我赏
+后
+罚实验的疼痛出现早于机械刺激诱发的疼痛，提示
+咬合干扰会直接刺激大鼠口腔内多种感受
+0． 4 mm
+器，给实验大鼠带来的不适感更强，自我赏罚实验的
+阳性结果出现得更早
+EOI
+模型存在外周与中枢敏化机制，随咬合干扰时间延
+长，实验大鼠出现中枢敏化，表现为长期咬合干扰后
+三叉神经脊束核尾侧亚核神经元反应高度活跃
+胶
+、
+前扣带回突触传导增强等，另外海马的
+质细胞活化
+、
+记忆功能也参与相关机制［
+中枢敏化也表
+现为痛敏感受野扩大，出现触须垫机械反应阈值降
+低，因此，自我赏罚实验的疼痛感受出现早于触须垫
+局部机械刺激诱发反应的疼痛
+
+。
+
+28 － 29
+
+，
+35
+
+］
+
+上述结果也提示，对于机械刺激诱发的疼痛出
+模
+
+现晚于自我赏罚实验阳性结果的模型 ( 如
+
+。
+
+。
+
+EOI
+
+白珊珊，等 大鼠咬合干扰致口颌面痛敏的自我赏罚实验行为学特点
+
+·75·
+
+［
+
+］ 韩济生
+
+19
+
+型) ，自我赏罚实验可应用于观察建模后早期的疼
+痛表现，对研究这一阶段的口颌面疼痛机制有重要
+实验中，两种模型总摄食次数与对照组相比
+意义
+差异均无统计学意义，组内差异大，这与既往大部分
+研究相同，反映出不同实验大鼠个体间的摄食习惯
+差异［
+
+。
+
+8 － 10
+
+］
+
+。
+
+综上，自我赏罚实验可以作为咬合干扰致口颌
+面疼痛的行为学测定新方法，在神经病理性疼痛和
+咬合干扰所致口颌面疼痛的模型中均可稳定应用
+。
+在本实验两种模型中，自我赏罚实验与机械刺激诱
+发反应均表现出了不同的痛敏时程，两种方法互为
+补充可以更全面地揭示不同模型的疼痛行为学特
+点，在未来研究中应根据不同实验研究的需要选择
+合适的行为学方法，以更好地探索口颌面疼痛的相
+关机制
+
+。
+
+参考文献
+
+［
+
+1
+
+］
+
+［
+
+2
+
+］
+
+［
+
+［
+
+3
+
+4
+
+］
+
+］
+
+［
+
+5
+
+］
+
+［
+
+［
+
+6
+
+7
+
+］
+
+］
+
+［
+
+8
+
+］
+
+［
+
+9
+
+］
+
+［
+
+］
+
+10
+
+［
+
+］
+
+11
+
+［
+
+］
+
+12
+
+［
+
+］
+
+13
+
+［
+
+］
+
+14
+
+［
+
+］
+
+15
+
+Alkhader M． Psychological factors in oral mucosal
+) :
+
+，
+
+，
+
+(
+
+． Eur J Dent
+
+2017
+
+11
+
+4
+
+［
+］
+J
+
+Etzioni Y
+et al． The impact of chronic orofacial
+the vulnerable patient and the disruptive pain
+123
+
+2016
+
+，
+
+，
+
+． Oral Surg Oral Med Oral Pathol Oral Ｒadiol
+
+，
+
+Alrashdan M
+and orofacial pain conditions
+548 － 552．
+，
+Haviv Y
+Zini A
+pain on daily life
+［
+］
+J
+) :
+(
+1
+
+58 － 66．
+
+，
+:
+
+，
+
+，
+
+，
+
+:
+
+10
+
+，
+
+，
+
+，
+
+，
+
+284．
+
+2017
+
+King T
+
+Dvorakova LS
+［
+］
+J
+
+． Front Mol Neurosci
+，
+
+Irina V． Methods used to evaluate pain
+
+Morgan MM． Pros and cons of clinical-
+． Neurosci Biobe-
+
+Deuis JＲ
+behaviors in rodents
+，
+Tappe-Theodor A
+ly relevant methods to assess pain in rodents
+hav Ｒev
+100
+Martinez-Garcia MA
+Animal models in the study and treatment of orofacial pain
+Clin Exp Dent
+Barrot M． Tests and models of nociception and pain in rodents
+［
+］
+J
+
+Goicoechea C．
+． J
+
+Miguelanez-Medran BC
+
+． Neuroscience
+
+e382 － e390．
+
+335 － 343．
+
+［
+］
+J
+
+［
+］
+J
+
+39 － 50．
+
+(
+5
+，
+
+2019
+
+2012
+
+2019
+
+211
+
+，
+
+，
+
+，
+
+，
+
+，
+
+) :
+
+) :
+
+) :
+
+11
+
+11
+
+4
+
+(
+
+(
+
+(
+
+(
+
+3
+
+) :
+
+) :
+
+，
+
+，
+
+，
+
+，
+
+，
+
+，
+
+，
+
+116
+
+234
+
+． Pain
+
+82 － 90．
+
+1984
+，
+
+［
+］
+J
+
+2012
+，
+
+2005
+，
+
+Lakes EH
+
+325 － 343．
+
+Malphurs W
+
+18
+Zuo X
+
+386 － 395．
+，
+
+． J Neurosci Methods
+
+) :
+1
+，
+Widmer CG
+
+［
+］
+J
+，
+Queeney TJ
+
+［
+］
+J
+，
+Kloefkorn HE
+
+(
+4
+，
+et al． Assessment of chronic trigeminal
+． Behav
+
+Woolf CJ． Long term alterations in the excitability of the flexion re-
+flex produced by peripheral tissue injury in the chronic decerebrate
+］
+［
+． Pain
+J
+rat
+，
+Cha M
+Kohan KJ
+neuropathic pain by the orofacial operant test in rats
+Brain Ｒes
+Neubert JK
+et al． Use of a novel ther-
+mal operant behavioral assay for characterization of orofacial pain
+sensitivity
+Ｒohrs EL
+et al． A novel operant-
+based behavioral assay of mechanical allodynia in the orofacial re-
+gion of rats
+Ｒamirez HE
+orofacial operant pain assay as a preclinical
+analgesic efficacy in rodents
+2015
+Araujo-Filho HG
+facial pain animal models-progress and challenges
+Opin Drug Discov
+Kaan TK
+Ohara PT
+behavior assessment
+170．
+Deseure K
+Hans GH． Differential drug effects on spontaneous and
+evoked pain behavior in a model of trigeminal neuropathic pain
+［
+］
+J
+
+et al． Orofacial pain models and
+159 －
+
+et al． Assessment of an
+for evaluating
+，
+
+et al． Chronic oro-
+． Expert
+
+2018
+，
+Jasmin L
+［
+］
+J
+
+． J Am Assoc Lab Anim Sci
+
+． Methods Mol Biol
+
+426 － 432．
+，
+
+Pereira EWM
+
+Campos AＲ
+
+Dunbar ML
+
+949 － 964．
+
+［
+］
+J
+
+［
+］
+J
+
+2015
+，
+
+1 － 6．
+
+10
+，
+
+2012
+
+248
+
+851
+
+tool
+
+，
+
+，
+
+，
+
+，
+
+，
+
+，
+
+，
+
+，
+
+，
+
+，
+
+，
+
+，
+
+，
+
+) :
+
+) :
+
+) :
+
+13
+
+54
+
+13
+
+4
+
+(
+
+(
+
+(
+
+:
+
+:
+
+，
+，
+
+10
+
+2017
+Akerman S
+
+279 － 286．
+． J Pain Ｒes
+，
+Ｒomero-Ｒeyes M
+Nguyen E
+havioral responses in the orofacial region
+pain in mouse
+53
+
+． Headache
+
+［
+］
+J
+
+2013
+
+，
+
+，
+
+，
+:
+(
+
+et al． Spontaneous be-
+a model of trigeminal
+) :
+1
+
+137 － 151．
+
+［
+
+］
+
+16
+
+［
+
+］
+
+17
+
+［
+
+］
+
+18
+
+［
+
+］
+
+20
+
+［
+
+］
+
+21
+
+［
+
+］
+
+22
+
+［
+
+］
+
+23
+
+［
+
+］
+
+24
+
+［
+
+］
+
+25
+
+［
+
+］
+
+26
+
+［
+
+］
+
+27
+
+［
+
+］
+
+28
+
+［
+
+］
+
+29
+
+［
+
+］
+
+30
+
+［
+
+］
+
+31
+
+［
+
+］
+
+32
+
+［
+
+］
+
+33
+
+［
+
+］
+
+34
+
+［
+
+］
+
+35
+
+，
+
+，
+
+，
+
+Cao DL
+
+Zhang ZJ
+
+Zhang Q
+et al． Chemokine CXCL13 mediates
+orofacial neuropathic pain via CXCＲ5 / EＲK pathway in the
+trigeminal ganglion of mice
+13
+(
+
+． J Neuroinflammation
+
+［
+］
+J
+
+2016
+
+，
+
+，
+
+) :
+
+1
+
+183．
+，
+
+，
+
+，
+
+) :
+
+，
+
+，
+
+Li K
+
+Xie QF
+
+et al． Experimental occlusal interference
+［
+］
+J
+．
+
+Cao Y
+induces long-term masticatory muscle hyperalgesia in rats
+Pain
+Cao Y
+et al． Pregabalin suppresses noci-
+ceptive behavior and central sensitization in a rat trigeminal neuro-
+pathic pain model
+
+(
+3
+，
+Chiang CY
+
+144
+Wang H
+
+287 － 293．
+
+2009
+，
+
+193 － 204．
+北京: 北京大学医学出版社，
+
+］
+［
+． J Pain
+J
+］
+疼痛学 ［
+M
+．
+
+2012
+
+2013
+
+，
+
+，
+
+，
+
+) :
+
+14
+
+2
+
+(
+
+:
+
+．
+
+:
+
+:
+
+(
+
+(
+
+8
+
+1
+
+M
+
+an
+
+26
+
+22
+
+，
+
+］
+
+［
+
+，
+
+，
+
+，
+
+，
+
+，
+
+，
+
+，
+
+，
+
+2002
+
+et al．
+
+［
+］
+J
+
+1985
+，
+
+Casey KL
+
+Lariviere WＲ
+
+Dubner Ｒ
+，
+) :
+
+thermal nociception
+
+． Neurosci Biobehav Ｒev
+
+． Pain
+Wilson SG
+
+et al． Pain measurement
+1 － 31．
+
+46．
+Chapman CＲ
+［
+］
+J
+overview
+，
+Chesler EJ
+Identification and
+ranking of genetic and laboratory environment factors influencing a
+behavioral trait
+via computational analysis of
+) :
+a large data archive
+907 － 923．
+Chung JM． Animal models and experimental tests to study nocicep-
+tion and pain
+Schmidt ＲF． Encyclopedia of
+154 － 157．
+pain． Berlin Heidelberg
+2013
+Kauppila T
+Influence of spinaliza-
+Pertovaara A．
+tion on spinal withdrawal reflex responses varies depending on the
+submodality of the test stimulus and the experimental pathophysio-
+) :
+logical condition in the rat
+234 － 242．
+Ling J
+sensitivity
+ter infraorbital nerve chronic constrictive injury
+Lett
+Budtz-Jrgensen E． Occlusal dysfunction and stress． An experi-
+，
+mental study in Macaque monkeys
+8
+(
+
+Gu JG． Ｒole of KCNQ2 channels in orofacial cold
+KCNQ2 upregulation in trigeminal ganglion neurons af-
+． Neurosci
+
+/ / Gebhart GF
+Springer
+，
+
+． J Oral Ｒehabil
+
+Kontinen VK
+
+． Brain Ｒes
+
+［
+］
+J
+
+［
+］
+J
+
+［
+］
+J
+
+84 － 90．
+
+Erol F
+
+，
+，
+
+2010
+
+1998
+
+2018
+
+664
+
+797
+
+，
+
+，
+
+，
+
+，
+
+，
+
+，
+
+，
+
+，
+
+) :
+
+) :
+
+2
+
+3
+
+(
+
+(
+
+:
+
+:
+
+1
+
+1 － 9．
+
+，
+
+(
+
+(
+
+(
+
+(
+
+5
+
+3
+
+3
+
+20
+
+) :
+
+) :
+
+) :
+
+，
+
+，
+
+，
+
+，
+
+，
+
+，
+
+，
+
+114
+
+2012
+
+Cao Y
+
+132
+，
+
+Xu XX
+
+，
+，
+
+［
+］
+J
+
+［
+］
+J
+
+589 － 596．
+
+353 － 364．
+
+，
+98
+，
+
+［
+］
+J
+) :
+
+． J Dent Ｒes
+
+305 － 316．
+，
+，
+
+． J Am Dent Assoc
+
+［
+］
+J
+，
+Cao Y
+
+． Eur J Pain
+Mo SY
+
+Marbach JJ． Widespread pain and the effectiveness
+，
+
+2016
+et al． ACC plasticity maintains masseter
+，
+
+Yin X． Occlusal risk factors associated with temporoman-
+． Oral
+419 －
+
+Mokha SS． Activation of the trigeminal α2-adrenoceptor
+estrogen dependent thermal antinociception
+［
+］
+J
+．
+
+Wang C
+dibular disorders in young adults with normal occlusions
+4
+Surg Oral Med Oral Pathol Oral Ｒadiol
+423．
+Ｒaphael KG
+of oral splints in myofascial face pain
+2001
+Ding TT
+et al． Inflammatory pain memory facili-
+tates occlusal interference-induced masticatory muscle hyperalgesia
+in rats
+Xu XX
+hyperalgesia caused by occlusal interference
+2019
+Nag S
+produces sex-specific
+and antihyperalgesia using an operant pain assay in the rat
+Behav Brain Ｒes
+Ｒohrs EL
+tics of capsaicin mediated cutaneous
+orofacial nociception in rats
+18 － 24．
+Zimmermann M． Pathobiology of neuropathic pain
+Pharmacol
+，
+Melo LT
+-α-Bisabolol re-
+duces nociception and trigeminal central sensitisation in acute oro-
+［
+］
+facial neuropathic pain induced by infraorbital nerve injury
+J
+．
+Life Sci
+Meacham K
+pain
+Ｒep
+Cao Y
+involved in occlusal interference-Induced facial pain in rats
+Pain
+
+152 － 158．
+，
+et al． Behavioral characteris-
+，
+and arthrogenic
+) :
+2018
+
+central vs． peripheral mechanisms
+2017
+，
+
+et al． Central sensitization and MAPKs are
+． J
+
+et al． Neuropathic
+． Curr Pain Headache
+
+myogenic
+． Arch Oral Biol
+
+Mohapatra DP
+［
+］
+J
+
+122 － 128．
+，
+
+，
+2016
+，
+
+Panchalingam V
+
+23 － 37．
+，
+
+Shepherd A
+
+Caudle ＲM
+
+Neubert JK
+
+793 － 807．
+
+Cherkas P
+
+［
+］
+J
+
+1 － 3
+，
+
+2019
+，
+
+［
+］
+J
+
+［
+］
+J
+
+． Eur J
+
+，
+，
+
+Fu KY
+
+:
+，
+
+28．
+，
+
+et al．
+
+2013
+
+2001
+
+21
+，
+
+Li K
+
+314
+
+429
+
+227
+
+，
+
+，
+
+，
+
+，
+
+，
+
+，
+
+，
+
+，
+
+，
+
+，
+
+，
+
+)
+-
+
+) :
+
+) :
+
+) :
+
+) :
+
+) :
+
+19
+
+14
+
+92
+
+12
+
+8
+
+8
+
+6
+
+(
+
+(
+
+(
+
+(
+
+(
+
+(
+
+(
+
+(
+
+收稿)
+( 本文编辑: 任英慧)
+
+2019-10-10
+
+
